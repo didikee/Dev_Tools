@@ -7,7 +7,7 @@
 2. 磁盘文件大小分析工具
 3. 硬盘数据恢复工具（收费版与免费版）
 4. foobar2000美化版
-
+5. EveryThing 1.368 [第三方链接](http://www.iplaysoft.com/everything.html)
 
 
 
