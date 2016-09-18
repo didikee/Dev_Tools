@@ -8,6 +8,7 @@
 3. 硬盘数据恢复工具（收费版与免费版）
 4. foobar2000美化版
 5. EveryThing 1.368 [第三方链接](http://www.iplaysoft.com/everything.html)
+6. Clover 3 [提升工作效率,推荐使用,已经兼容Win10!!!](http://cn.ejie.me/)
 
 
 
