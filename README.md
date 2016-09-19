@@ -16,3 +16,7 @@
 #### Google Chrome 插件 ####
 
 1. New Tab Redirect :打开新标签默认网址设置[Chrome 商店链接](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna/reviews?utm_source=chrome-ntp-icon)
+2. 迅雷下载插件 :应该是国内必备吧(用了几个还是这个比较可以)[Chrome 商店链接](https://chrome.google.com/webstore/detail/thunder-download-extensio/ncennffkjdiamlpmcbajkmaiiiddgioo)
+3. Adblock plus :广告屏蔽插件[Chrome 商店链接](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/reviews)
+4. JSON-Handle : json格式化插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)
+5. Google 翻译 :页面翻译 [Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
