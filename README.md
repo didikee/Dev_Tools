@@ -9,6 +9,7 @@
 4. foobar2000美化版
 5. EveryThing 1.368 [第三方链接](http://www.iplaysoft.com/everything.html)
 6. Clover 3 [提升工作效率,推荐使用,已经兼容Win10!!!](http://cn.ejie.me/)
+7. Windows ISO 镜像下载站点 [MSDN-itellyou](http://msdn.itellyou.cn/)
 
 
 
@@ -20,3 +21,4 @@
 3. Adblock plus :广告屏蔽插件[Chrome 商店链接](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/reviews)
 4. JSON-Handle : json格式化插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)
 5. Google 翻译 :页面翻译 [Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+6. 模拟版本 :User-Agent Switcher[](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
