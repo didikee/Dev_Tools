@@ -22,4 +22,4 @@
 3. Adblock plus :广告屏蔽插件[Chrome 商店链接](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/reviews)
 4. JSON-Handle : json格式化插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)
 5. Google 翻译 :页面翻译 [Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-6. 模拟各种浏览器平台 :User-Agent Switcher[比如百度云不让window平台下载,so,我们可以切换到ios去下载=。=](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+6. 模拟各种浏览器平台 :User-Agent Switcher(比如百度云不让window平台下载,so,我们可以切换到ios去下载=。=)[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
