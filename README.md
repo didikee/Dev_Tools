@@ -11,6 +11,7 @@
 6. Clover 3 [提升工作效率,推荐使用,已经兼容Win10!!!](http://cn.ejie.me/)
 7. Windows ISO 镜像下载站点 [MSDN-itellyou](http://msdn.itellyou.cn/)
 8. 科学上网(hosts)`最后更新2016-12-09` [七牛云下载](http://oa6hub8ui.bkt.clouddn.com/2016/12/09/hosts)
+9. Android 逆向助手V2.2 [Android 反编译等等操作的图形化工具集合](http://oahzrw11n.bkt.clouddn.com//android/tool/Android%E9%80%86%E5%90%91%E5%8A%A9%E6%89%8B_v2.2.rar)
 
 
 
@@ -23,3 +24,4 @@
 4. JSON-Handle : json格式化插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)
 5. Google 翻译 :页面翻译 [Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 6. 模拟版本 :User-Agent Switcher[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+7. 模拟各种浏览器平台 :User-Agent Switcher(比如百度云不让window平台下载,so,我们可以切换到ios去下载=。=)[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
