@@ -12,6 +12,7 @@
 7. Windows ISO 镜像下载站点 [MSDN-itellyou](http://msdn.itellyou.cn/)
 8. 科学上网(hosts)`最后更新2016-12-09` [七牛云下载](http://oa6hub8ui.bkt.clouddn.com/2016/12/09/hosts)
 9. Android 逆向助手V2.2 [Android 反编译等等操作的图形化工具集合](http://oahzrw11n.bkt.clouddn.com//android/tool/Android%E9%80%86%E5%90%91%E5%8A%A9%E6%89%8B_v2.2.rar)
+10. Markdown编辑器 **[Haroopad](http://pad.haroopress.com/)**`最近发现的,很好用`
 
 
 
