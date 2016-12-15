@@ -28,6 +28,7 @@
 5. **Google 翻译 **:页面翻译 [Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 6. **模拟版本** :User-Agent Switcher[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 7. **模拟各种浏览器平台** :User-Agent Switcher(比如百度云不让window平台下载,so,我们可以切换到ios去下载=。=)[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+8. **掘金**: 他们的口号是"高质量的技术社区" [这里是官网](https://gold.xitu.io/):聚合了很多技术信息,你可以看看,然后决定是否使用它的chrome插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
 
 #### 值得保存的书签
 ### 1.Android 篇
