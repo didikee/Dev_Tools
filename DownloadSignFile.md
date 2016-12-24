@@ -14,9 +14,11 @@
 
 
 - **找到你要下载的文件**
+
 ![你需要下载的文件](http://oidz2h9ht.bkt.clouddn.com//blog/2016/12/24/xunlei-use.png)
 
 - **在文件名上右键鼠标,使用迅雷下载**
-- ![下载文件](http://oidz2h9ht.bkt.clouddn.com//blog/2016/12/24/xunlei-use2.png)
+
+![下载文件](http://oidz2h9ht.bkt.clouddn.com//blog/2016/12/24/xunlei-use2.png)
 
 最后等待迅雷下载完成即可.
