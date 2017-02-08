@@ -33,6 +33,9 @@
 7. **模拟各种浏览器平台** :User-Agent Switcher(比如百度云不让window平台下载,so,我们可以切换到ios去下载=。=)[Chrome 商店链接](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 8. **掘金**: **此插件会抢占NewTab,介意打开新页面被占用的略过**他们的口号是"高质量的技术社区" [这里是官网](https://gold.xitu.io/):聚合了很多技术信息,你可以看看,然后决定是否使用它的chrome插件 [Chrome 商店链接](https://chrome.google.com/webstore/detail/%E6%8E%98%E9%87%91/lecdifefmmfjnjjinhaennhdlmcaeeeb)
 
+### Android 相关工具
+1. **TortoiseGit**: 网站带有多国语言包 [官网链接](https://tortoisegit.org/download/)
+
 #### 值得保存的书签
 ### 1.Android 篇
 1. **png 与 jpeg压缩**: 压缩比率在30%~70%,具体还得看图啦 [官网链接](https://tinypng.com/)
