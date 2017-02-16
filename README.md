@@ -35,6 +35,7 @@
 
 ### Android 相关工具
 1. **TortoiseGit**: 网站带有多国语言包 [官网链接](https://tortoisegit.org/download/)
+2. **android-parcelable-intellij-plugin**: Android Parcelable 自动生成工具(快捷键 ALT + Insert)[github 地址](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 
 #### 值得保存的书签
 ### 1.Android 篇
