@@ -7,17 +7,19 @@
 #### 更新列表: ####
 
 #### 生产力工具
+| 名称 | 描述 | 官网地址 | 备注 |
+|:--:|:----:|:---:|:--:|
+|Eclipse 阻止自动上屏| 插件|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/eclipse%E8%87%AA%E5%8A%A8%E4%B8%8A%E5%B1%8F%E6%9B%BF%E6%8D%A2%E6%8F%92%E4%BB%B6)||
+|磁盘文件大小分析|电脑必备工具|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/windows%E7%A3%81%E7%9B%98%E5%A4%A7%E5%B0%8F%E5%88%86%E6%9E%90%E5%B0%8F%E5%B7%A5%E5%85%B7-%E7%BB%BF%E8%89%B2)||
+|硬盘数据恢复工具|（收费版与免费版）|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/%E7%A1%AC%E7%9B%98%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)||
+|foobar2000美化版|知道的不用解释,不知道的也不好解释,一个全局自定义的音乐播放器|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/foobar2000%E7%BE%8E%E5%8C%96%E7%89%88)||
+|EveryThing 1.368|电脑必备吧,找文件特快||第三方: http://www.iplaysoft.com/everything.html|
+|Clover 3|提升工作效率,推荐使用,已经兼容Win10!!!|http://cn.ejie.me/|好像没以前好用唉,错觉吗?|
+|Windows ISO 镜像| 换工作了配置电脑必备|http://msdn.itellyou.cn/||
+|科学上网(hosts)|**最后更新2017-3-3**|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/hosts)|[备用地址](https://laod.cn/hosts/2017-google-hosts.html)|
+|Android 逆向助手V2.2| 反编译图形化工具集合|[七牛云下载](http://oahzrw11n.bkt.clouddn.com//android/tool/Android%E9%80%86%E5%90%91%E5%8A%A9%E6%89%8B_v2.2.rar)|没找到官网|
+|Haroopad| Markdown编辑器|http://pad.haroopress.com/|`最近发现的,很好用`|
 
-1. **Eclipse 阻止 自动上屏 插件.**
-2. **磁盘文件大小分析工具**
-3. **硬盘数据恢复工具（收费版与免费版）**
-4. **foobar2000美化版**
-5. **EveryThing 1.368** [第三方链接](http://www.iplaysoft.com/everything.html)
-6. **Clover 3** [提升工作效率,推荐使用,已经兼容Win10!!!](http://cn.ejie.me/)
-7. **Windows ISO 镜像下载站点** [MSDN-itellyou](http://msdn.itellyou.cn/)
-8. **科学上网(hosts)**`最后更新2016-12-09` [七牛云下载](http://oa6hub8ui.bkt.clouddn.com/2016/12/09/hosts)
-9. **Android 逆向助手V2.2** [Android 反编译等等操作的图形化工具集合](http://oahzrw11n.bkt.clouddn.com//android/tool/Android%E9%80%86%E5%90%91%E5%8A%A9%E6%89%8B_v2.2.rar)
-10. **Markdown编辑器** **[Haroopad](http://pad.haroopress.com/)**`最近发现的,很好用`
 
 
 
