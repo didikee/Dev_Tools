@@ -59,3 +59,8 @@
 | 名称 | 描述 | 地址 | 备注 |
 |:--:|:----:|:---:|:--:|
 |SSL Converter|Https 的签名证书生成时转换用的|https://www.sslshopper.com/ssl-converter.html||
+|Material Icon Generator| Material 图标生成器|https://android-material-icon-generator.bitdroid.de/#section-material-icons|你得提前准备一个SVG(矢量图)才行|
+|SVG 背景|有点像QQ登录的背景,参数可变,看起来还可以|http://qrohlf.com/trianglify-generator/||
+|SVG Editor| 矢量图的在线编辑,功能简单|http://editor.method.ac/||
+|gif 在线处理|功能挺全的,mp4转gif,还可以控制大小还能编辑等|https://ezgif.com/||
+|Photoshop 在线| 一个简单的在线 ps 效果看技巧,不用下客户端|http://www.uupoop.com/|应急用|
