@@ -55,7 +55,8 @@
 |**花瓣**| 与上面两个类似,多关注几个分类,养眼吧|[花瓣官网](http://huaban.com/all/)|
 |**阿里icon**| 没有图标的同学可以去淘几个.|[阿里icon官网](http://www.iconfont.cn/plus/collections/index?spm=a313x.7781069.0.0.fEW4eG&personal=1)||
 | **colorhunt** | Android ui 配色| [官网地址](http://colorhunt.co/)||
-
+|Android Developer|国内的,速度还是比墙外快的|[国内官网](https://developer.android.google.cn/index.html)|另付[墙外官网](https://developer.android.com/index.html)|
+|**Gradle Distributions**|各个版本的Gradle都可以下载,适合自动下载慢,想用迅雷试试的|[官网地址](https://services.gradle.org/distributions/)|wall|
 
 
 ## 2. 工具篇
@@ -68,3 +69,8 @@
 |SVG Editor| 矢量图的在线编辑,功能简单|http://editor.method.ac/||
 |gif 在线处理|功能挺全的,mp4转gif,还可以控制大小还能编辑等|https://ezgif.com/||
 |Photoshop 在线| 一个简单的在线 ps 效果看技巧,不用下客户端|http://www.uupoop.com/|应急用|
+
+## 3. 程序员社区
+| 名称 | 描述 | 地址 | 备注 |
+|:--:|:----:|:---:|:--:|
+|V2EX|社区气氛还可以|https://www.v2ex.com/||
