@@ -5,7 +5,7 @@
 
 ### 更新列表:(更新为表格显示,看着舒服点吧应该~(～ o ～)~zZ)
 
-## [Mac 平台的点击这里(最近换到Mac平台了O(∩_∩)O~~)]()
+## [Mac 平台的点击这里(最近换到Mac平台了O(∩_∩)O~~)](https://github.com/didikee/Dev_Tools/blob/master/MacPlatform.md)
 ## 生产力工具(Windows)
 
 | 名称 | 描述 | 官网地址 | 备注 |
