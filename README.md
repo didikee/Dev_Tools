@@ -9,7 +9,7 @@
 ## 生产力工具(Windows)
 
 | 名称 | 描述 | 官网地址 | 备注 |
-|:--:|:----:|:---:|:--:|
+|:---:|:----:|:---:|:--:|
 |Eclipse 阻止自动上屏| 插件|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/eclipse%E8%87%AA%E5%8A%A8%E4%B8%8A%E5%B1%8F%E6%9B%BF%E6%8D%A2%E6%8F%92%E4%BB%B6)||
 |磁盘文件大小分析|电脑必备工具|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/windows%E7%A3%81%E7%9B%98%E5%A4%A7%E5%B0%8F%E5%88%86%E6%9E%90%E5%B0%8F%E5%B7%A5%E5%85%B7-%E7%BB%BF%E8%89%B2)||
 |硬盘数据恢复工具|（收费版与免费版）|[GitHub地址](https://github.com/didikee/Dev_Tools/tree/master/%E7%A1%AC%E7%9B%98%E6%95%B0%E6%8D%AE%E6%81%A2%E5%A4%8D)||
@@ -29,7 +29,7 @@
 | 名称 | 描述 | 官网地址 | 备注 |
 |:--:|:----:|:---:|:--:|
 |**New Tab Redirect**|打开新标签默认网址设置|[Chrome 商店链接](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna/reviews?utm_source=chrome-ntp-icon)|必备|
-|**迅雷下载插件**| :应该是国内必备吧(用了几个还是这个比较可以)|[Chrome 商店链接](https://chrome.google.com/webstore/detail/thunder-download-extensio/ncennffkjdiamlpmcbajkmaiiiddgioo)|必备|
+|**迅雷下载插件**| 应该是国内必备吧(用了几个还是这个比较可以)|[Chrome 商店链接](https://chrome.google.com/webstore/detail/thunder-download-extensio/ncennffkjdiamlpmcbajkmaiiiddgioo)|必备|
 |**Adblock plus**|广告屏蔽插件|[Chrome 商店链接](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb/reviews)|额|
 |**JSON-Handle**|json格式化插件| [Chrome 商店链接](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)||
 |**Google 翻译**|页面翻译 |[Chrome 商店链接](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)||
