@@ -6,6 +6,8 @@
 |JieTu |截图(屏)工具|App Store可下载|免费,腾讯出品|
 |Color Note|屏幕取色工具|App Store可下载|免费,简洁|
 |Android File Transfer|android官方工具|[官方地址](https://www.android.com/filetransfer/)|免费,简洁|
+|Haroopress Markdown 编辑器|导出样式多|[官方地址](http://pad.haroopress.com/user.html#download)|免费,简洁，全平台覆盖|
+
 
 
 ## Sketch ☆☆☆☆☆
